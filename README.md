@@ -1,5 +1,9 @@
 # L2Traning_work
 
+
+Day1 : Test-case-xls.xls  is Test case for Create Account page
+
+
 Day 2 :  3.Create a stand-alone framework on TestNG and demo testing concepts.
       src/main/java > L2Traning.Basic Selenium  >  LoginPage_TestingConcepts.java
       
